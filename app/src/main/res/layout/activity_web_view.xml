@@ -7,7 +7,7 @@
     android:layout_height="match_parent"
     tools:context=".jumpcode_features.presentation.WebViewActivity">
 
-    <pblsh.pls.frlncrvtm.jumpcode_features.JumpCodeWebView
+    <refractnginamo.pls.potapaupload.jumpcode_features.JumpCodeWebView
         android:id="@+id/web_view"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
